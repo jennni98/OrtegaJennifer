@@ -83,7 +83,7 @@ include("marco-left.php")
 <script >  
 
  document.title="Jennifer Ortega"; 
-document.getElementById("foto").src="./images/OrtegaJennifer.jpeg";
+document.getElementById("foto").src="./images/OrtegaJennifer.jpg";
 document.getElementById("elnombre").innerHTML="Jennifer Ortega ";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";

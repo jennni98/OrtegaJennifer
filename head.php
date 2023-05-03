@@ -10,10 +10,10 @@
 <head>
  <title> Educaysoft </title>
 <meta charset="utf-8"/>
-	<link href="images/RamirezAlan.jpeg" rel="shortcut icon" type="image/x-icon" />
-	<meta name="description" content="Biografía de Alan Ramirez" />
+	<link href="images/OrtegaJennifer.jpeg" rel="shortcut icon" type="image/x-icon" />
+	<meta name="description" content="Biografía de Jennifer Ortega" />
 
-	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/RamirezAlan.jpeg" />
+	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/OrtegaJennifer.jpeg" />
 	<meta property="og:image:width" content="100" />
 	<meta property="og:image:height" content="100" />
 <!----        <meta name="viewport" content="width=device-width, initial-scale=1" /> --->

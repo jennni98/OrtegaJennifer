@@ -10,7 +10,7 @@
 <head>
  <title> Educaysoft </title>
 <meta charset="utf-8"/>
-	<link href="images/OrtegaJennifer.jpeg" rel="shortcut icon" type="image/x-icon" />
+	<link href="images/OrtegaJennifer.jpg" rel="shortcut icon" type="image/x-icon" />
 	<meta name="description" content="Biografía de Jennifer Ortega" />
 
 	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/OrtegaJennifer.jpeg" />
